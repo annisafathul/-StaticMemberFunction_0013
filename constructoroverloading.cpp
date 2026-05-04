@@ -29,3 +29,10 @@ mahasiswa :: mahasiswa(int iNama)
 {
     nim = iNama;
 }
+
+mahasiswa :: mahasiswa(int iNim, string iNama)
+{
+    nim = iNim;
+    nama = iNama;
+}
+
