@@ -24,3 +24,8 @@ mahasiswa :: mahasiswa(int iNim)
 {
     nim = iNim;
 }
+
+mahasiswa :: mahasiswa(int iNama)
+{
+    nim = iNama;
+}
