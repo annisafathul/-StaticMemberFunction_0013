@@ -25,9 +25,9 @@ mahasiswa :: mahasiswa(int iNim)
     nim = iNim;
 }
 
-mahasiswa :: mahasiswa(int iNama)
+mahasiswa :: mahasiswa(string iNama)
 {
-    nim = iNama;
+    nama = iNama;
 }
 
 mahasiswa :: mahasiswa(int iNim, string iNama)
